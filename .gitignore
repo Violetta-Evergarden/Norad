@@ -1,0 +1,8 @@
+*.env
+
+src/config.js
+src/test.js
+src/test2.js
+src/commands/user/Testing/
+
+node_modules/
